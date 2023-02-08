@@ -1,0 +1,1 @@
+This app recommends on some tech trendy books
